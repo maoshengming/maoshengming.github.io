@@ -1,0 +1,26 @@
+.xian {
+    height: 5px;
+    background-color: #efefef;
+}
+.big-bj {
+    min-width: 1200px;
+    height: 512px;
+    background: url(../images/banner-bg.jpg);
+}
+.last-bj {
+    height: 483px;
+}
+.body_1 {
+    padding-top: 20px;
+}
+.body_1 img {vertical-align: middle;margin-right: 10px}
+.body_1 span {vertical-align: middle;font-size: 24px}
+.body_2 {padding-top: 15px;font-size: 16px}
+.body_2 p{line-height: 23px}
+.body_3 {padding-top: 30px}
+.input_1 {height: 46px; width: 376px;border: 2px solid #f8f8f8}
+.input_2 {height: 46px; width: 376px;border: 2px solid #f8f8f8;margin-left: 22px}
+.input_4 {height: 146px; width: 1196px; border: 2px solid #f8f8f8; margin-top: 30px;resize: none;outline: none}
+.input_5 {width: 281px; height: 47px; background-color: #ff5842;border: 0 none;margin-top: 30px;color: white;cursor: pointer}
+
+
